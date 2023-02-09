@@ -9,4 +9,4 @@ Arpana-Sitoula/Arpana-Sitoula is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <br><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpana-Sitoula&layout=compact)](https://github.com/Arpana-Sitoula/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpana-Sitoula&layout=compact&langs_count=6)](https://github.com/Arpana-Sitoula/github-readme-stats)

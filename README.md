@@ -5,6 +5,7 @@
 - 📫 How to reach me arp2ctaula@gmail.com
 
 <br>
+Tools and Technologies:
 <div align="left">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arpana.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on Frontend Web Development
+- 🌱 I’m currently learning machine learning and data engineering.
+- 💞️ I’m looking to collaborate on Frontend Web Development.
 - 📫 How to reach me arp2ctaula@gmail.com
 
 <br>
